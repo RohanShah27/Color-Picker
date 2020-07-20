@@ -22,3 +22,4 @@ export default function ColorPicker({ color, onChange, ...rest }) {
     </div>
   );
 }
+rcc;
